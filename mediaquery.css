@@ -1,0 +1,24 @@
+/*laptop*/
+@media screen and (max-width:1200px) {  
+
+ body{
+    background-color: rgb(red, green, rgb(0, 255, 128));
+ }
+}
+
+/*tablet*/
+
+@media screen and (max-width:768px){
+    body{
+        background-color: deeppink;
+    }
+}
+
+/*mobile*/
+
+@media screen and (max-width:480px){
+
+    body{
+        background-color: yellow;
+    }
+}
